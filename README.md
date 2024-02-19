@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajij-Chhetri777
+- 👋 Hi, I’m @Ajij-Chhetri777, former chess player who started coding using django framework and hoping specialize in buidling website and apps with many more tools
 - 👀 I’m interested in django
 - 🌱 I’m currently learning backend development
 - 💞️ I love to collaborate on web projects
